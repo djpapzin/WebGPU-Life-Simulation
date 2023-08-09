@@ -1,8 +1,10 @@
-![WebGPU Life Demo](demo.gif)
+
 
 # WebGPU Life
 
 This project demonstrates the capabilities of the WebGPU API by implementing Conway's Game of Life. WebGPU is a modern API for accessing GPU capabilities in web apps, providing both rendering and compute functionalities. This project leverages WebGPU's rendering capabilities to draw a grid representing the Game of Life and its compute capabilities to simulate the game's state.
+
+![WebGPU Life Demo](demo.gif)
 
 ## Tech Stack
 
