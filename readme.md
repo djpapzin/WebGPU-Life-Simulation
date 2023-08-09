@@ -1,4 +1,3 @@
-![WebGPU Life Screenshot](demo.png)
 ![WebGPU Life Demo](demo.gif)
 
 # WebGPU Life
